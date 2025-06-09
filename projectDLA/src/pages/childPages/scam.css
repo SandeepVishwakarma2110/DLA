@@ -1,0 +1,66 @@
+/* General styling for the New Laws page */
+.scam-container {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f3f3f3;
+    min-height: 100vh;
+}
+
+/* Page title */
+.scam-container h2 {
+    font-size: 2rem;
+    color: #2a2e3d;
+    margin-bottom: 1.5rem;
+}
+
+/* Styling the list */
+.scam-list {
+    list-style: none;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* Individual law cards */
+.scam-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: left;
+    transition: transform 0.2s ease-in-out;
+}
+
+.scam-card:hover {
+    transform: scale(1.03);
+}
+
+/* Law Title */
+.scam-card h3 {
+    color: #e57575;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Law Description */
+.scam-card p {
+    color: #333;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .scam-container {
+        padding: 1.5rem;
+    }
+
+    .scam-card {
+        padding: 1rem;
+    }
+
+    .scam-container h2 {
+        font-size: 1.8rem;
+    }
+}

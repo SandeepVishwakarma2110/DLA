@@ -1,0 +1,79 @@
+/* General Styling */
+.back-button-container {
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+    background-color: #f5f5f5; /* Light background to separate it from the header */
+}
+
+/* Back Button */
+.back-button {
+    background: #2a2e3d;
+    color: white;
+    border: none;
+    padding-top: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.back-button:hover {
+    background: #1f2432;
+}
+
+
+.about {
+    max-width: 800px;
+    margin: 5px auto;
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.about h1, .about h2 {
+    color: #2a2e3d;
+}
+
+.about p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Call to Action */
+.cta {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #2a2e3d;
+    color: white;
+    border-radius: 10px;
+}
+
+
+.cta .btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #e57575;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.ctapara{
+    color: #f5f5f5;
+}
+.cta .btn:hover {
+    background-color: #c96464;
+}
+
+/* Responsive Design */
+@media (max-width: 670px) {
+    .about {
+        padding: 15px;
+    }
+
+    .cta {
+        padding: 15px;
+    }
+}

@@ -1,0 +1,39 @@
+.services-section {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f8f9fa; /* Adjust based on HomePage.css */
+}
+
+.service-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    margin: 1rem auto;
+    max-width: 600px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.service-card:hover {
+    transform: scale(1.05);
+}
+
+.service-card h3 {
+    color: #e57575; /* Use the same primary color from HomePage.css */
+}
+
+.service-card p {
+    color: #333;
+}
+
+.service-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.service-link:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,43 @@
+[
+    {
+        "query": "What should I do if my items get stolen?",
+        "solution": "File a First Information Report (FIR) at your nearest police station. You have the right to receive a copy of the FIR for your records. If valuable property was stolen, request to track or block it if possible (e.g., blocking a stolen phone’s IMEI number). Keep all evidence, such as receipts or ownership documents, to support your claim."
+      },
+      {
+        "query": "What can I do if someone refuses to pay back borrowed money?",
+        "solution": "If you have documented proof (like a signed agreement, text, or email), serve a legal notice demanding repayment. You can file a civil suit for recovery of money under the Code of Civil Procedure, 1908. If the amount is significant, consult a lawyer to expedite the legal process."
+      },
+      {
+        "query": "What should I do if I am wrongfully terminated from my job?",
+        "solution": "Review your employment contract to understand your rights regarding termination. If you suspect illegal termination, file a complaint with the labor commissioner or consult a labor lawyer. Under the Industrial Disputes Act, 1947, employees in certain industries are protected against unfair dismissal. Preserve evidence like emails, performance records, and other documents that may support your case."
+      }, 
+      {
+        "query": "What are my rights if I'm harassed at the workplace?",
+        "solution": "Report the incident to your company’s Internal Complaints Committee (ICC) if it involves sexual harassment. This is mandated under the Sexual Harassment of Women at Workplace (Prevention, Prohibition, and Redressal) Act, 2013. Document incidents (dates, times, and witnesses) to build your case. If the issue isn’t addressed, approach the labor commissioner or file a police complaint."
+      },
+      {
+        "query": "What can I do if someone is trespassing on my property?",
+        "solution": "Politely ask the person to leave, as they’re violating Section 441 of the Indian Penal Code (IPC). If they refuse, call the police and file a report. For recurring trespassing, you can seek a restraining order from the court. Keep records of any interactions with the trespasser as evidence."
+      },
+      {
+        "query": "How can I protect myself from defamation?",
+        "solution": "Defamation is punishable under Sections 499 and 500 of the IPC. If someone spreads false statements harming your reputation, you can file a criminal complaint. Collect evidence, including witnesses and written/recorded proof of defamatory statements. Alternatively, you can file a civil lawsuit for damages against the person responsible for defamation."
+      },
+      {
+        "query": "What can I do if I’m falsely accused of a crime?",
+        "solution": "Cooperate with the police and provide any evidence that proves your innocence. File a complaint for malicious prosecution under Section 211 of the IPC if the accusation was made with malice. Consult a lawyer and, if necessary, file for anticipatory bail to avoid wrongful arrest. Maintain records of your defense and witnesses."
+      },
+      {
+        "query": "What should I do if someone is blackmailing me?",
+        "solution": "Blackmailing is punishable under Section 503 of the IPC (criminal intimidation). File a complaint at the nearest police station. Keep any text messages, emails, or other evidence of the blackmail as proof. Avoid giving in to the demands, as this could lead to further extortion."
+      },
+      {
+        "query": "What can I do if I face domestic violence?",
+        "solution": "Seek immediate help by calling emergency services or going to the nearest police station. You can also file a complaint under Section 498A of the IPC. Collect evidence of abuse (photos, recordings) if possible and seek protection orders from the court if necessary."
+      },
+      {
+        "query": "What are my options if I’m a victim of cyberbullying?",
+        "solution": "Cyberbullying is punishable under the Information Technology Act, 2000. Report the incident on the National Cyber Crime Reporting Portal (https://cybercrime.gov.in) and keep evidence of the abuse. You can also file a police complaint if the bullying involves threats or defamation."
+      }
+    
+  ]

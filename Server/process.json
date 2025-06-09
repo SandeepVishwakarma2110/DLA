@@ -1,0 +1,175 @@
+
+[
+  {
+    "id": 1,
+    "name": "Sewer Pipe line Installation",
+    "steps": [
+      "Submit an application to the local municipal corporation or the concerned department.",
+      "Provide necessary documents such as land ownership proof and address verification.",
+      "Approval and feasibility study by the authority.",
+      "Payment of required charges.",
+      "Allotment of contractor for pipeline installation.",
+      "Final testing and approval of installation.",
+      "Service activation and issuance of a completion certificate."
+    ],
+    "relevant_authorities": ["Municipal Corporation", "Public Works Department"],
+    "contact_details": {
+      "helpline_number": "1800-120-800",
+      "email": "support@municipal.gov.in",
+      "application_form": "https://services.india.gov.in/service/detail/apply-for-new-water-sewer-connection-in-urban-local-bodies-1",
+      "nearest_access_locations": [
+        {
+          "city": "Delhi",
+          "address": "Municipal Office, Connaught Place, Delhi - 110001"
+        },
+        {
+          "city": "Mumbai",
+          "address": "BMC Office, Fort, Mumbai - 400001"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Gas Pipeline Connection",
+    "steps": [
+      "Submit an online or offline application to the gas distribution company.",
+      "Provide necessary KYC documents and land ownership proof.",
+      "Inspection of premises by the gas company.",
+      "Approval and quotation for installation charges.",
+      "Payment of fees and security deposit.",
+      "Pipeline installation and safety checks.",
+      "Activation of gas connection and issuance of customer ID."
+    ],
+    "relevant_authorities": ["Gas Authority of India Ltd (GAIL)", "Indane Gas", "Bharat Gas"],
+    "contact_details": {
+      "helpline_number": "1800-233-3555",
+      "email": "support@gail.co.in",
+      "application_form": "https://customer.gailgaspng.com/registration",
+      "nearest_access_locations": [
+        {
+          "city": "Bangalore",
+          "address": "GAIL Office, MG Road, Bangalore - 560001"
+        },
+        {
+          "city": "Kolkata",
+          "address": "Indane Gas Office, Salt Lake, Kolkata - 700091"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Water Pipeline Connection",
+    "steps": [
+      "Submit an application to the local water supply department.",
+      "Attach necessary documents such as address proof, land ownership certificate, and identity verification.",
+      "Inspection by water department officials.",
+      "Approval and estimation of charges.",
+      "Payment of fees and security deposit.",
+      "Installation of water pipeline and meter connection.",
+      "Final verification and activation of water supply."
+    ],
+    "relevant_authorities": ["Municipal Water Department", "Jal Board", "PWD"],
+    "contact_details": {
+      "helpline_number": "1800-345-6789",
+      "email": "water.support@gov.in",
+      "application_form": "https://djb.gov.in/DJBRMSPortal/portal/newConnection.html",
+      "nearest_access_locations": [
+        {
+          "city": "Hyderabad",
+          "address": "Water Board Office, Begumpet, Hyderabad - 500016"
+        },
+        {
+          "city": "Chennai",
+          "address": "Metro Water Office, T. Nagar, Chennai - 600017"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Road Construction Permission",
+    "steps": [
+      "Submit a request to the local Public Works Department (PWD) or municipal corporation.",
+      "Attach detailed project plans, land records, and NOCs from relevant authorities.",
+      "Approval and site inspection by government engineers.",
+      "Allocation of funds (if applicable) and contractor selection.",
+      "Execution of road construction work.",
+      "Final quality checks and approvals.",
+      "Road opening for public use."
+    ],
+    "relevant_authorities": ["PWD", "Municipal Corporation", "National Highway Authority"],
+    "contact_details": {
+      "helpline_number": "1800-789-4567",
+      "email": "roadinfra@pwd.gov.in",
+      "application_form": "https://www.pwddelhi.gov.in/",
+      "nearest_access_locations": [
+        {
+          "city": "Pune",
+          "address": "PWD Office, Shivaji Nagar, Pune - 411005"
+        },
+        {
+          "city": "Lucknow",
+          "address": "UP PWD Office, Hazratganj, Lucknow - 226001"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Streetlight Installation",
+    "steps": [
+      "Submit an application to the electricity board or municipal authority.",
+      "Provide necessary documents including a request letter and location details.",
+      "Approval and feasibility study by the authority.",
+      "Budget allocation and approval of funds.",
+      "Installation of streetlights.",
+      "Final inspection and activation of the lights."
+    ],
+    "relevant_authorities": ["Municipal Corporation", "State Electricity Board"],
+    "contact_details": {
+      "helpline_number": "1800-222-5555",
+      "email": "support@electricity.gov.in",
+      "application_form": "https://play.google.com/store/apps/details?id=com.everythingcivic.mcd&pcampaignid=web_share",
+      "nearest_access_locations": [
+        {
+          "city": "Jaipur",
+          "address": "Rajasthan Electricity Board, C Scheme, Jaipur - 302001"
+        },
+        {
+          "city": "Ahmedabad",
+          "address": "Gujarat Electricity Board, Ashram Road, Ahmedabad - 380009"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Solar Panel Installation Permission",
+    "steps": [
+      "Apply to the state renewable energy development agency.",
+      "Submit property documents and ID proof.",
+      "Inspection by the renewable energy board.",
+      "Approval and subsidy processing (if applicable).",
+      "Installation by an authorized vendor.",
+      "Final certification and activation."
+    ],
+    "relevant_authorities": ["MNRE", "State Renewable Energy Agencies"],
+    "contact_details": {
+      "helpline_number": "1800-333-7777",
+      "email": "support@mnre.gov.in",
+      "application_form": "https://pmsuryaghar.gov.in/#/",
+      "nearest_access_locations": [
+        {
+          "city": "Bhopal",
+          "address": "Madhya Pradesh Renewable Energy Agency, Arera Hills, Bhopal - 462011"
+        },
+        {
+          "city": "Chandigarh",
+          "address": "Chandigarh Energy Department, Sector 17, Chandigarh - 160017"
+        }
+      ]
+    }
+  }
+]

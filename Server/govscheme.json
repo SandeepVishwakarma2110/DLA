@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "title": "Prime Minister Dhan-Dhaanya Krishi Yojana",
+      "description": "Aims to develop agricultural districts by enhancing infrastructure, providing financial support to farmers, and promoting sustainable farming practices.",
+      "sector": "Agriculture",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 2,
+      "title": "Rural Prosperity and Resilience Programme",
+      "description": "Focuses on building rural infrastructure, improving connectivity, and enhancing the quality of life in rural areas.",
+      "sector": "Rural Development",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 3,
+      "title": "Mission for Aatmanirbharta in Pulses",
+      "description": "Seeks to achieve self-sufficiency in pulse production through support to farmers and research initiatives.",
+      "sector": "Agriculture",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 4,
+      "title": "Comprehensive Programme for Vegetables & Fruits",
+      "description": "Aims to boost the production and export of vegetables and fruits by providing financial incentives and infrastructure support.",
+      "sector": "Agriculture",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 5,
+      "title": "National Mission on High Yielding Seeds",
+      "description": "Focuses on the development and distribution of high-yielding seed varieties to enhance crop productivity.",
+      "sector": "Agriculture",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 6,
+      "title": "Fisheries Mission for Cotton Productivity",
+      "description": "Aims to improve cotton productivity through modern farming techniques and support to cotton farmers.",
+      "sector": "Agriculture",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 7,
+      "title": "Enhanced Credit through Kisan Credit Card (KCC)",
+      "description": "Provides increased credit limits to farmers for meeting their agricultural and ancillary needs.",
+      "sector": "Agriculture Finance",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 8,
+      "title": "Urea Plant in Assam",
+      "description": "Establishes a new urea manufacturing plant in Assam to meet the fertilizer needs of the northeastern region.",
+      "sector": "Agriculture",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 9,
+      "title": "Revision in Classification Criteria for MSMEs",
+      "description": "Updates the classification criteria for Micro, Small, and Medium Enterprises to provide better support and incentives.",
+      "sector": "MSMEs",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 10,
+      "title": "Credit Cards for Micro Enterprises",
+      "description": "Introduces credit card facilities for micro-enterprises to ease access to credit and promote entrepreneurship.",
+      "sector": "MSMEs Finance",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 11,
+      "title": "Fund of Funds for Startups",
+      "description": "Establishes a fund to support startups with capital and resources to foster innovation and entrepreneurship.",
+      "sector": "Startups",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 12,
+      "title": "Scheme for First-time Entrepreneurs",
+      "description": "Provides support and mentorship to first-time entrepreneurs to encourage new business ventures.",
+      "sector": "Entrepreneurship",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 13,
+      "title": "Focus Product Scheme for Footwear & Leather Sectors",
+      "description": "Offers incentives to boost production and export in the footwear and leather sectors.",
+      "sector": "Manufacturing",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 14,
+      "title": "Support for Food Processing",
+      "description": "Provides financial and infrastructural support to the food processing industry to enhance value addition and exports.",
+      "sector": "Food Processing",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 15,
+      "title": "Manufacturing Mission - Furthering 'Make in India'",
+      "description": "Promotes domestic manufacturing through incentives and policy support under the 'Make in India' initiative.",
+      "sector": "Manufacturing",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 16,
+      "title": "Saksham Anganwadi and Poshan 2.0",
+      "description": "Aims to improve child and maternal health through strengthened Anganwadi services and nutrition programs.",
+      "sector": "Health",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 17,
+      "title": "Atal Tinkering Labs",
+      "description": "Establishes labs in schools to foster innovation and creativity among students.",
+      "sector": "Education",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 18,
+      "title": "Broadband Connectivity to Government Secondary Schools and PHCs",
+      "description": "Provides high-speed internet connectivity to government secondary schools and primary health centers to enhance education and healthcare services.",
+      "sector": "Digital Infrastructure",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 19,
+      "title": "Bharatiya Bhasha Pustak Scheme",
+      "description": "Promotes the publication of books in Indian languages to preserve and promote linguistic diversity.",
+      "sector": "Culture",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    },
+    {
+      "id": 20,
+      "title": "National Centres of Excellence for Skilling",
+      "description": "Establishes centers of excellence to provide advanced skill training in various sectors.",
+      "sector": "Skill Development",
+      "source": "https://www.india.gov.in/spotlight/union-budget-2025-2026"
+    }
+  ]

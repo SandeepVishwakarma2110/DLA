@@ -1,0 +1,119 @@
+/* Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #2a2e3d;
+    color: #fff;
+}
+
+/* Logo alignment to the left */
+.logo {
+    display: flex;
+    align-items: center;
+    position: relative;
+    margin-right: auto; /* Ensures the logo stays on the left */
+}
+
+/* Align all other navbar items to the right */
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-left: auto; /* Pushes navbar items to the right */
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links li {
+    margin: 0 1rem;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Authentication links */
+.auth {
+    display: flex;
+    align-items: center;
+}
+
+.auth a {
+    color: #e57575;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+/* Social icons */
+.social-icons {
+    display: flex;
+    align-items: center;
+}
+
+.social-icons img {
+    width: 20px;
+    height: 20px;
+    margin-left: 0.5rem;
+}
+
+/* Menu icon (hamburger menu for mobile) */
+.menu-icon {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* Responsive design for mobile menu */
+/* Responsive Design */
+@media (max-width: 670px) {
+    .nav-links, .auth  {
+        display: none !important; /* Ensures .social-icons hides on smaller screens */
+    }
+
+    .menu-icon {
+        display: block !important; /* Show the menu icon for mobile */
+    }
+
+    .header {
+        padding: 1rem; /* Reduce padding on smaller screens */
+    }
+}
+
+@media (max-width: 315px) {
+     .social-icons {
+        display: none !important; /* Ensures .social-icons hides on smaller screens */
+    }
+
+    .menu-icon {
+        display: block !important; /* Show the menu icon for mobile */
+    }
+
+    .header {
+        padding: 1rem; /* Reduce padding on smaller screens */
+    }
+}
+
+
+
+
+
+
+@media (max-width: 670px) {
+    .social-icons {
+        display: flex; /* Ensures visibility */
+        justify-content: center; /* Centers icons */
+        margin-top: 10px; /* Adds spacing */
+    }
+
+    .social-icons img {
+        width: 24px;
+        height: 24px;
+        margin: 0 5px;
+    }
+}

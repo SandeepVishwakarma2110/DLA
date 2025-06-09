@@ -1,0 +1,88 @@
+[
+      {
+          "id": 1,
+          "title": "Bharatiya Nyaya Sanhita (BNS), 2023",
+          "description": "This law replaces the Indian Penal Code (IPC) and brings several changes, including stricter punishments for crimes such as rape, murder, and sedition. The minimum punishment for rape has been increased, and new provisions have been introduced for organized crime and terrorism.",
+          "date_passed": "2023-12-25",
+          "source": "https://www.indiatoday.in/india/story/bharatiya-nyaya-sanhita-criminal-law-replacement-key-changes-2478972-2023-12-25"
+      },
+      {
+          "id": 2,
+          "title": "Bharatiya Sakshya Adhiniyam (BSA), 2023",
+          "description": "Replacing the Indian Evidence Act, 1872, this new law modernizes evidence rules, allowing for digital and electronic evidence in court proceedings. It also strengthens protections for victims of sexual crimes.",
+          "date_passed": "2023-12-25",
+          "source": "https://www.barandbench.com/news/litigation/new-indian-evidence-act-bharatiya-sakshya-adhiniyam-key-features"
+      },
+      {
+          "id": 3,
+          "title": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+          "description": "This law replaces the Code of Criminal Procedure (CrPC) and introduces measures such as community service as a penalty for minor offenses, time-bound case investigations, and increased protections for women and children in sexual assault cases.",
+          "date_passed": "2023-12-25",
+          "source": "https://www.indiatoday.in/india/story/new-criminal-laws-bnss-bsa-bns-implementation-july-1-key-features-2497656-2024-03-07"
+      },
+      {
+          "id": 4,
+          "title": "Protection of Women from Domestic Violence Act, 2005",
+          "description": "This law provides protection to women facing domestic violence, covering physical, sexual, emotional, and economic abuse. It allows courts to issue protection orders, residence orders, and monetary relief for victims.",
+          "date_passed": "2005-09-13",
+          "source": "https://www.indiacode.nic.in/handle/123456789/2029"
+      },
+      {
+          "id": 5,
+          "title": "Criminal Law (Amendment) Act, 2013",
+          "description": "Enacted after the 2012 Delhi gang rape case, this amendment expanded the definition of rape, increased punishments, introduced new offenses like acid attacks and stalking, and mandated fast-track courts for sexual assault cases.",
+          "date_passed": "2013-03-19",
+          "source": "https://en.wikipedia.org/wiki/Criminal_Law_(Amendment)_Act,_2013"
+      },
+      {
+          "id": 6,
+          "title": "Section 228A of the Indian Penal Code",
+          "description": "This law prohibits the disclosure of a rape victim’s identity in public. Publishing a victim’s name or any identifying details can lead to imprisonment and a fine.",
+          "date_passed": "1983-12-25",
+          "source": "https://en.wikipedia.org/wiki/Section_228A_of_the_Indian_Penal_Code"
+      },
+      {
+          "id": 7,
+          "title": "Indian Evidence Act, Sections 113A and 113B",
+          "description": "These sections address crimes against women. Section 113A presumes a woman's suicide within seven years of marriage was abetted by her husband if cruelty is proven. Section 113B presumes a woman's death due to dowry harassment is caused by her husband or relatives.",
+          "date_passed": "1983-12-25",
+          "source": "https://legalreferencer.in/laws-related-to-domestic-violence-in-india/"
+      },
+      {
+          "id": 8,
+          "title": "Maternity Benefit (Amendment) Act, 2017",
+          "description": "This law extends maternity leave from 12 to 26 weeks for working women and mandates crèche facilities for organizations with 50 or more employees. It also provides work-from-home options under specific conditions.",
+          "date_passed": "2017-03-27",
+          "source": "https://labour.gov.in/maternity-benefit-amendment-act-2017"
+      },
+      {
+          "id": 9,
+          "title": "Triple Talaq (Muslim Women Protection of Rights on Marriage) Act, 2019",
+          "description": "This law criminalizes the practice of instant triple talaq (Talaq-e-Biddat) among Muslims, making it a punishable offense with up to three years of imprisonment for the husband.",
+          "date_passed": "2019-07-31",
+          "source": "https://www.indiacode.nic.in/handle/123456789/2293"
+      },
+      {
+          "id": 10,
+          "title": "The Hindu Marriage Act, Section 25 (Alimony and Maintenance)",
+          "description": "This provision allows courts to grant alimony to either spouse based on financial need. It considers factors like the spouse’s income, financial status, and duration of marriage.",
+          "date_passed": "1955-05-18",
+          "source": "https://indiankanoon.org/doc/55444/"
+      },
+      {
+          "id": 11,
+          "title": "Income Tax Bill, 2025",
+          "description": "This law modernizes India's tax system, replacing the 1961 law. It simplifies tax compliance, introduces new tax slabs, and incorporates stricter measures to prevent tax evasion.",
+          "date_passed": "2025-02-15",
+          "source": "https://www.financialexpress.com/money/income-tax-bill-2025-how-is-the-new-tax-law-different-from-the-old-one-3747122/"
+      },
+      {
+          "id": 12,
+          "title": "Import Duty Exemption for EV Batteries and Mobile Phone Components, 2025",
+          "description": "This law removes import duties on components for electric vehicle (EV) batteries and mobile phones, aiming to boost domestic manufacturing and global competitiveness.",
+          "date_passed": "2025-03-25",
+          "source": "https://www.reuters.com/world/india/india-proposes-import-tax-exemption-items-phone-ev-battery-production-2025-03-25/"
+      }
+  
+  ]
+  

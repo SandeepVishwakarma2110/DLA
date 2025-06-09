@@ -1,0 +1,147 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #f3f3f3;
+    color: #333;
+}
+
+/* Login Page Container */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    height: 100vh;
+    background-color: #33475b;
+    color: #fff;
+}
+
+/* Header */
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+    background-color: #2a2e3d;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-icon {
+    width: 40px;
+    height: 40px;
+    background-color: #e57575;
+    color: #fff;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+}
+
+.subtitle {
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+/* Login Content */
+.login-content {
+    width: 100%;
+    max-width: 400px;
+    background-color: #2a2e3d;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.login-title {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.form-group label {
+    font-size: 1rem;
+    color: #ccc;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #eee;
+}
+
+.login-btn {
+    background-color: #e57575;
+    color: #fff;
+    padding: 0.7rem 1rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1rem;
+    width: 100%;
+}
+
+.login-btn:hover {
+    background-color: #c96464;
+}
+
+/* Register Prompt */
+.register-prompt {
+    margin-top: 1.5rem;
+    font-size: 0.9rem;
+}
+
+.register-link {
+    color: #e57575;
+    text-decoration: none;
+}
+
+.register-link:hover {
+    text-decoration: underline;
+}
+
+/* Footer with Social Icons */
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.social-icons {
+    display: flex;
+    gap: 1rem;
+}
+
+.social-icons img {
+    width: 24px;
+    height: 24px;
+    filter: brightness(0) invert(1); /* To make icons white */
+}

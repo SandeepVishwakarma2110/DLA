@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "P2P Payment Fraud via UPI",
+    "description": "Scammers exploit peer-to-peer (P2P) payment platforms like UPI to deceive users into transferring money or revealing personal details.",
+    "date_reported": "2025-03-28",
+    "source": "https://indianexpress.com/article/technology/tech-news-technology/p2p-scams-how-they-can-drain-your-money-through-upi-in-just-seconds-9911184/"
+  },
+  {
+    "id": 2,
+    "title": "Fake Electricity Bill Scams in Hyderabad",
+    "description": "Fraudulent messages threaten Hyderabad residents with power disconnection unless immediate payment is made, leading to financial losses.",
+    "date_reported": "2025-03-28",
+    "source": "https://www.thehansindia.com/news/cities/hyderabad/scam-alert-beware-of-fake-electricity-bill-scams-in-hyderabad-958020"
+  },
+  {
+    "id": 3,
+    "title": "AI-Generated Deepfake Scams",
+    "description": "The misuse of deepfake technology has led to scams involving AI-generated audio and video, raising concerns over election manipulation and the need for stricter enforcement.",
+    "date_reported": "2025-03-27",
+    "source": "https://www.indiatvnews.com/news/india/govt-deepfake-report-ai-scams-election-misuse-govt-report-delhi-high-court-2025-03-27-982608"
+  },
+  {
+    "id": 4,
+    "title": "WhatsApp Account Bans to Combat Fraud",
+    "description": "WhatsApp banned approximately 9.9 million Indian accounts in January 2025 to combat fraudulent activities and scams on the platform.",
+    "date_reported": "2025-03-25",
+    "source": "https://www.heraldgoa.in/globe/whatsapp-bans-99-lakh-indian-accounts-in-january-2025-to-combat-fraud-and-scams/420881"
+  },
+  {
+    "id": 5,
+    "title": "New India Cooperative Bank Scam",
+    "description": "Businessman Javed Azam was arrested in connection with the ₹122 crore New India Cooperative Bank scam, marking the seventh arrest in the case.",
+    "date_reported": "2025-03-18",
+    "source": "https://economictimes.indiatimes.com/topic/scams-in-india"
+  }
+]
